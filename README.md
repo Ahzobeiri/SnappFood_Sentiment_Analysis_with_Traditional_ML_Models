@@ -1,1 +1,2 @@
 # SnappFood_Sentiment_Analysis_with_Traditional_ML_Models
+In this repository, we trained various traditional Machine learning methodes including SVM, LR, MLP, KNN, and to  Naive Bayes to classify between positive and negative comments in SnappFood. We used both traditional text feature extraction methodes (like TF, TF-IDF, Unigram, and Bigram methods) and word emmbeding methods (like Word2Vec) for processing the text.
